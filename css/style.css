@@ -8166,8 +8166,10 @@ button.close {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 /* Vars */
+
+/** JeanineKimball.com **/
 body {
-  padding-top: 70px;
+  padding-top: 10px;
 }
 
 h1,
@@ -8185,13 +8187,11 @@ h3 {
 }
 
 .jumbotron{
-  height: 600px;
+  height: 350px;
 }
 
 footer {
   background: #3b5a76;
   color: #fff;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
 }
